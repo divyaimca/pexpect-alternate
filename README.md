@@ -7,4 +7,4 @@ This script can be used as :
 
 Usage: 
 python remoteconnect.py user remotehost password command-to-run-on-ssh
-test                              
+                              
